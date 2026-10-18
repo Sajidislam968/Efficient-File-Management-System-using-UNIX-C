@@ -57,6 +57,10 @@ The menu includes:
 
 The script also contains file-search handlers for options 18 and 19, although these options are not shown in the menu.
 
+## Output
+<img width="1136" height="834" alt="image" src="https://github.com/user-attachments/assets/ba170e0e-9b93-41bf-b7c4-7af25a6c7ebf" />
+
+
 ## Caution
 
 This utility can delete, move, rename, and overwrite files. Try it first in a test directory and check each requested path before confirming an operation.
